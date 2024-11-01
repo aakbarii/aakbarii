@@ -8,8 +8,8 @@
 
 <div dir="rtl">
 
-- **[Marvel Shops](https://marvelshops.com/)** - پلتفرمی برای خرید و فروش محصولات.
-- **[Marvel Commodity](https://marvelcommodity.com/)** - پلتفرمی برای معاملات و ارائه خدمات بازرگانی.
+ **[Marvel Shops](https://marvelshops.com/)**
+ **[Marvel Commodity](https://marvelcommodity.com/)** 
 
 </div>
 
