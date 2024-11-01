@@ -6,12 +6,10 @@
 
 ### پروژه‌های من:
 
-<div dir="rtl">
-
- **[Marvel Shops](https://marvelshops.com/)**
- **[Marvel Commodity](https://marvelcommodity.com/)** 
-
-</div>
+<p align="right">
+  <a href="https://marvelshops.com/"><strong>Marvel Shops</strong></a> - پلتفرمی برای خرید و فروش نقره<br>
+  <a href="https://marvelcommodity.com/"><strong>Marvel Commodity</strong></a> - پلتفرمی برای خرید پوشاک و ...
+</p>
 
 ### تخصص‌ها:
 
