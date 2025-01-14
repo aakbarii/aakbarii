@@ -7,7 +7,7 @@ I’m a front-end developer passionate about web development and utilizing moder
 
 ### My Projects:
 
-- [**Marvel Shops**](https://marvelshops.com/) -  A platform for purchasing gold and clothing and more
+- [**Marvel Life**](https://marvellife.co) -  A platform for purchasing gold and clothing and more
 
 ### Skills:
 
@@ -27,7 +27,7 @@ I’m always learning and keeping my skills up-to-date so I can work with the be
 
 ### پروژه‌های من:
 
-- [**Marvel Shops**](https://marvelshops.com/) -  پلتفرمی برای خرید و فروش نقره و ...
+- - **پلتفرمی برای خرید و فروش نقره و ...** [**Marvel Life**](https://marvellife.co)
 
 
 ### تخصص‌ها:
