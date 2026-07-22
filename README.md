@@ -1,79 +1,67 @@
-# Hi, I’m **Amin Akbari** 👋  
-Front-end Developer • JavaScript & React Ecosystem Enthusiast
+<h1 align="center">Hi, I'm Amin Akbari 👋</h1>
+<h3 align="center">Front-End Developer • React & Next.js Ecosystem Enthusiast</h3>
 
-I’m a passionate front-end developer who loves building interactive, fast, and user-centric web applications. I focus on modern technologies, clean architecture, and high-quality code — always staying up-to-date with new tools and best practices in the web ecosystem.
+<p align="center">
+  I build fast, interactive, and user-centric web applications with modern tools, clean architecture, and a strong focus on performance.
+</p>
 
----
-
-## 💻 **Tech Stack**
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-2.5%2B%20years-blue?style=flat-square" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Focus-Front--End%20Development-informational?style=flat-square" alt="Focus"/>
+</p>
 
 ---
 
-## 🧩 **Projects**
-### 🔸 **Marvel Life**  
-A modern e-commerce platform for purchasing gold, clothing, and various products.  
-👉 https://marvellife.co
+### 💻 Tech Stack
 
-### 🔸 **Marvel Trade**  
-A platform designed for buying and selling silver and precious metals with a secure and modern interface.  
-👉 https://marveltrade.org/
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+**Tools & Practices**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-## 🛠 **Skills**
-- **Frontend:** React, Next.js, JavaScript, TypeScript, HTML5, CSS3  
-- **Tools:** Git, GitHub, VS Code, REST APIs  
-- **Extras:** State Management, Performance Optimization, Realtime Apps (Socket.io)
-
----
-
-## 🎯 **My Goal**
-I aim to build high-performance web applications with an exceptional user experience. I’m constantly learning, improving, and pushing myself to work with the best technologies to create products that are both powerful and user-friendly.
-
-📬 *Feel free to connect with me on social media or GitHub — always happy to collaborate!*
+State Management • Performance Optimization • REST APIs • Realtime Applications
 
 ---
 
-# سلام، من **امین اکبری** هستم 👋  
-فرانت‌اند دولوپر و عاشق دنیای وب
+### 🧩 Projects
 
-من به ساخت رابط‌های کاربری سریع، مدرن و خلاقانه علاقه دارم. همیشه تلاش می‌کنم با جدیدترین فناوری‌ها در حوزه وب کار کنم و بهترین کیفیت رو در پروژه‌هام ارائه بدم.
+| Project | Description | Link |
+|---|---|---|
+| 🔸 **Penguin (Marvel Exchange)** <br>*Jan 2026 – Present* | Web-based cryptocurrency trading platform with instant buy/sell, fast KYC, real-time pricing, 2FA, cold storage, and 24/7 support. | [penguin.ceo](https://penguin.ceo/) |
+| 🔸 **Academy Marvel** <br>*Jan 2024 – Present* | Online educational platform offering courses and learning resources with a modern, user-friendly experience. | [academymarvel.com](https://academymarvel.com/) |
+| 🔸 **Marvel Life** <br>*Jan 2024 – Present* | E-commerce platform for gold/silver bullion, handmade jewelry, books, and camping gear. | [marvellife.co](https://marvellife.co/) |
+| 🔸 **Marvel Trade** | Trading-sector platform offering trader-optimized VPS, analytical tools, and financial market resources. | [marveltrade.org](https://marveltrade.org/) |
+| 🔸 **Galaxie Clinic** | Website for a specialized health clinic, covering a full range of health services with a modern, patient-friendly interface. | [galaxieclinic.com](https://galaxieclinic.com/) |
 
----
-
-## 💻 **تکنولوژی‌هایی که باهاشون کار می‌کنم**
-React • Next.js • JavaScript • TypeScript • HTML5 • CSS3 • Socket.io  
-Git • VS Code • Figma
-
----
-
-## 🧩 **پروژه‌ها**
-### 🔸 **Marvel Life**  
-پلتفرمی مدرن برای خرید طلا، پوشاک و محصولات مختلف  
-👉 https://marvellife.co
-
-### 🔸 **Marvel Trade**  
-پلتفرم خرید و فروش نقره و فلزات گران‌بها با طراحی مدرن و تجربه کاربری روان  
-👉 https://marveltrade.org/
+*Marvel Frequency projects: Penguin, Academy Marvel, Marvel Life, Marvel Trade.*
 
 ---
 
-## 🛠 **تخصص‌ها**
-- توسعه فرانت‌اند با React & Next.js  
-- طراحی UI واکنش‌گرا  
-- عملکرد بالا و معماری تمیز  
-- تجربه کار با APIها، مدیریت state و ساخت اپ‌های real-time
+### 🎯 Goal
+
+Building high-performance web applications with exceptional user experience — constantly learning and adopting the best technologies in the modern web ecosystem.
 
 ---
 
-## 🎯 **هدف من**
-هر روز در حال یادگیری و پیشرفت هستم تا با بهترین تکنولوژی‌ها کار کنم و تجربه کاربری جذاب، سریع و مدرن ایجاد کنم.
+### 📬 Connect with me
 
-**ممنون می‌شم از طریق شبکه‌های اجتماعی یا GitHub با هم در ارتباط باشیم 🤝**
+<p align="left">
+  <a href="https://www.linkedin.com/in/aminakbarii/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<!--
+Tip: To use this on your GitHub profile, create a repository with the EXACT
+same name as your GitHub username (e.g. github.com/aminakbari/aminakbari),
+make it public, and put this file in it as README.md.
+-->
