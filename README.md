@@ -4,9 +4,9 @@
 
 I build responsive web interfaces, integrate APIs, and manage client-side state for products across finance, education, commerce, and healthcare.
 
-[Selected work](#selected-work) · [Technical stack](#technical-stack) · [Contact](#contact)
+[Projects](#projects) · [Technical stack](#technical-stack) · [Contact](#contact)
 
-## Selected work
+## Projects
 
 <p align="center">
   <a href="https://penguin.ceo/"><img src="./assets/project-penguin.png" width="47%" alt="Penguin Exchange — Crypto trading platform. Visit penguin.ceo."></a>
@@ -20,9 +20,12 @@ I build responsive web interfaces, integrate APIs, and manage client-side state 
 
 <p align="center">
   <a href="https://galaxieclinic.com/"><img src="./assets/project-clinic.png" width="47%" alt="Galaxie Clinic — Website for a specialist healthcare clinic. Visit galaxieclinic.com."></a>
+  <a href="https://pishrosport.com/"><img src="./assets/project-pishro.png" width="47%" alt="Pishro Basketball — Official website for the women’s club. Visit pishrosport.com."></a>
 </p>
 
 *Penguin Exchange, Academy Marvel, Marvel Life, and Marvel Trade are part of Marvel Frequency.*
+
+[Projects on LinkedIn ↗](https://ir.linkedin.com/in/aminakbarii)
 
 ## Technical stack
 
