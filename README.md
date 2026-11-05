@@ -1,36 +1,25 @@
 # Amin Akbari
 
+![Amin Akbari, Frontend Developer specializing in React, Next.js, and TypeScript](./assets/profile-hero.gif)
+
 **Frontend Developer · React, Next.js & TypeScript**
 
-I built the entire frontend for **Penguin Exchange**, a crypto trading platform with live prices, identity verification, and buy and sell flows. I also work on web products in online education and e-commerce.
+I build responsive web interfaces, integrate APIs, and manage client-side state for products across finance, education, commerce, and healthcare.
 
-[Penguin Exchange](#penguin-exchange) · [Other projects](#other-projects) · [Technical skills](#technical-skills) · [LinkedIn](https://www.linkedin.com/in/aminakbarii/)
+[Selected work](#selected-work) · [Technical stack](#technical-stack) · [LinkedIn ↗](https://www.linkedin.com/in/aminakbarii/)
 
-## Penguin Exchange
+## Selected work
 
-**End-to-end frontend ownership** · Jan 2026 – Present
+| Project | Category | Website |
+| :--- | :--- | :--- |
+| **Penguin Exchange** | Cryptocurrency trading platform | [Visit site ↗](https://penguin.ceo/) |
+| **Academy Marvel** | Online learning platform | [Visit site ↗](https://academymarvel.com/) |
+| **Marvel Life** | E-commerce storefront | [Visit site ↗](https://marvellife.co/) |
+| **Marvel Trade** | Trading tools and services | [Visit site ↗](https://marveltrade.org/) |
+| **Galaxie Clinic** | Healthcare services website | [Visit site ↗](https://galaxieclinic.com/) |
 
-I built the web experience across the trading journey, from checking a live price to verifying an account and placing an order.
+## Technical stack
 
-- **Live pricing** — Interfaces that show users how crypto prices change in real time.
-- **Buy and sell** — User flows for placing buy and sell orders.
-- **Identity and account security** — Frontend flows for identity verification (KYC) and two-factor authentication (2FA).
-
-[Visit Penguin Exchange →](https://penguin.ceo/)
-
-## Other projects
-
-| Project | Product | Timeline |
-| --- | --- | --- |
-| [Academy Marvel](https://academymarvel.com/) | Course discovery and online learning resources | Jan 2024 – Present |
-| [Marvel Life](https://marvellife.co/) | E-commerce storefront for bullion, jewelry, books, and camping gear | Jan 2024 – Present |
-| [Marvel Trade](https://marveltrade.org/) | Trader-focused VPS hosting, analytical tools, and market resources | |
-| [Galaxie Clinic](https://galaxieclinic.com/) | Clinic website for exploring healthcare services | |
-
-*Penguin Exchange, Academy Marvel, Marvel Life, and Marvel Trade are part of Marvel Frequency.*
-
-## Technical skills
-
-- **Frontend** · React, Next.js, TypeScript, JavaScript, HTML, CSS
-- **Data and state** · REST API integration, client-side state management, real-time updates with Socket.IO
-- **Development** · Performance optimization, Git, GitHub
+- **Frontend** · `React` `Next.js` `TypeScript` `JavaScript` `HTML` `CSS`
+- **Data and state** · `REST APIs` `Socket.IO` · Client-side state management
+- **Development** · `Git` `GitHub` · Performance optimization
